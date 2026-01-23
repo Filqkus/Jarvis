@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\ROGLOVER\\Documents\\Jarvis\\jarvis_v2\\logs\\.1e3d52eef653d5ebdda8fc6cca24cb86aaac6602-audit.json",
+    "files": [
+        {
+            "date": 1769176413430,
+            "name": "C:\\Users\\ROGLOVER\\Documents\\Jarvis\\jarvis_v2\\logs\\mcp-puppeteer-2026-01-23.log",
+            "hash": "0e26aa2c335472f11d52aa1cdcf83dc5ee690f42050a3c34196221b7741a03c9"
+        }
+    ],
+    "hashType": "sha256"
+}
